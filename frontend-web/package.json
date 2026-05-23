@@ -79,7 +79,7 @@
     ]
   },
   "engines": {
-    "node": ">=10",
+    "node": "20.x",
     "npm": ">=6"
   },
   "browserslist": {
